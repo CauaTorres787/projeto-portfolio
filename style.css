@@ -3,6 +3,7 @@ body{
     margin-right: 10%;
 }
 
+/*HEADER AND MENU*/
 .container{
     display: grid;
     grid-auto-flow: column;
@@ -21,6 +22,7 @@ body{
     margin-bottom: 40px;
 }
 
+/*MENU LIST*/
 #menu{
     text-align: right;
     margin-top: 20px;
@@ -44,6 +46,7 @@ body{
     margin-top: 35px;
 }
 
+/*CALL TO ATTENTION*/
 #headerCta h1{
     font-family: Poppins;
     font-weight: bold;
@@ -53,6 +56,7 @@ body{
     margin-top: 100px;
 }
 
+/*PARAGRAPH JUSTIFY GRAY USED IN CONTACT TOO*/
 .pjgray{
     font-family: Poppins;
     font-weight: 400;
@@ -86,6 +90,7 @@ a{
     margin-top: 60px;
 }
 
+/*CLIENTS LOGOS*/
 .headerLogo{
     text-align: center;
 }
@@ -104,7 +109,8 @@ a{
     color: #070F18;
 }
 
-h2.red{
+/*UNDER SERVICES*/
+h2.red{          /*STYLE USED IN UNDER SERVICES, CONTACTS AND PORTIFÓLIO TITLE*/
     font-family: Poppins;
     font-weight: 700;
     font-size: 16px;
@@ -113,7 +119,7 @@ h2.red{
     color:#F75C4E;
 }
 
-h1.black{
+h1.black{        /*STYLE USED IN UNDER SERVICES, CONTACTS AND PORTIFÓLIO TITLE*/
     font-family: Poppins;
     font-weight: 700;
     font-size: 36px;
@@ -123,15 +129,17 @@ h1.black{
     margin-top: 0px;
 }
 
+/*PARAGRAPH CENTER GRAY USED IN SERVICES TOO*/
 .pcgray{
     font-family: Poppins;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 16px; 
     line-height: 32px;
     text-align: center;
     color:#575455;
 }
 
+/*SERVICES*/
 .textCenter{
     text-align: center;
 }
@@ -148,6 +156,7 @@ h1.black{
     color:#070F18;
 }
 
+/*CONTACTS*/
 #contact img{
     width: 100%;
     margin-top: 80px;
@@ -196,6 +205,7 @@ h1.black{
     margin-top: 20px;
 }
 
+/*PORTFÓLIO TITLE*/
 #portifolioTitle h2{
     text-align: justify;
     margin-top: 150px;
@@ -204,6 +214,7 @@ h1.black{
     text-align: justify;
 }
 
+/*PORTFÓLIO IMAGES*/
 .portifolioImg img{
     width: 100%;
 }

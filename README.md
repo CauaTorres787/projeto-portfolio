@@ -1,2 +1,5 @@
 # projeto-portfolio
-Trabalho da matéria 2
+Trabalho sobre portfólio da matéria 2
+
+comentários adicionados
+
